@@ -6,7 +6,7 @@ public class directory_read {
 		
 		String[] list = f.list();
 		for(String s:list)
-		System.out.println("\\. C:\\Users\\Murali\\Desktop\\RA\\Dump20121129\\Dump20121129\\"+s);
+		System.out.println("\\.. C:\\Users\\Murali\\Desktop\\RA\\Dump20121129\\Dump20121129\\"+s);
 	}
 
 }
