@@ -9,6 +9,7 @@ public class testing_asterisk {
 		
 		Asterisk a = new Asterisk();
 		a.print_astrisk();
+		System.out.println("testing");
 		
 
 	}
